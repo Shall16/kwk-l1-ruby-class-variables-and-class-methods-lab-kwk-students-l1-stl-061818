@@ -20,10 +20,12 @@ end
 
 shawn_mendes= Album.new("shawn_mendes","2018")
 taylor_swift = Album.new("Reputation","2017")
+lin_manuel_miranda= Album.new("Hamilon Mixtape","2015")
 drake= Album.new("Sorpion","2018")
 
 
 puts "The Album was made in #{shawn_mendes.date}"
 puts "The Album was made in #{taylor_swift.date}"
+puts "The #{lin_manuel_miranda.name} was made in #{lin_manuel_miranda.date}" 
 puts "#{Album.count}"
  
