@@ -1,4 +1,4 @@
-class Album
+class Pinapples 
   @@album_count=0 
   def initialize(name,date)
     @name = name
