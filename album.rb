@@ -21,12 +21,13 @@ end
 shawn_mendes= Pinapples.new("shawn_mendes","2018")
 taylor_swift = Pinapples.new("Reputation","2017")
 lin_manuel_miranda= Pinapples.new("Hamilon Mixtape","2015")
-thebeetels = Pinapples.new ("Abby Road","")
+thebeetels = Pinapples.new ("Abby Road","1969")
 drake= Pinapples.new("Sorpion","2018")
 
 
 puts "The Album was made in #{shawn_mendes.date}"
 puts "The Album was made in #{taylor_swift.date}"
+puts "The Album, #{thebeetels.name_of_album} was made in #{thebeetels.date} 
 puts "The #{lin_manuel_miranda.name_of_album} was made in #{lin_manuel_miranda.date}" 
 puts "#{Pinapples.count}"
  
