@@ -28,6 +28,6 @@ drake= Pinapples.new("Sorpion","2018")
 puts "The Album was made in #{shawn_mendes.date}"
 puts "The Album was made in #{taylor_swift.date}"
 puts "The Album, #{thebeetels.name_of_album} was made in #{thebeetels.date} 
-puts "The #{lin_manuel_miranda.name_of_album} was made in #{lin_manuel_miranda.date}" 
+puts "The al
 puts "#{Pinapples.count}"
  
