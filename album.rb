@@ -21,6 +21,7 @@ end
 shawn_mendes= Pinapples.new("shawn_mendes","2018")
 taylor_swift = Pinapples.new("Reputation","2017")
 lin_manuel_miranda= Pinapples.new("Hamilon Mixtape","2015")
+thebeetels = Pinapples.new ("Abby Road","")
 drake= Pinapples.new("Sorpion","2018")
 
 
